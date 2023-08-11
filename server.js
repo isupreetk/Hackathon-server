@@ -4,8 +4,9 @@ const cors = require("cors");
 const questionsRouter = require("./routes/questionsRouter");
 
 app.use(cors());
+app.use(express.static("public"));
 
-app.use("/", questionsRouter);
+app.use("/trivia", questionsRouter);
 
 app.get("/", (req, res) => {
   res.send("Get on server");

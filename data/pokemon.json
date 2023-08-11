@@ -1,112 +1,122 @@
 [
     {
+        "id": 0,
         "name": "Bulbasaur",
-        "image": "http://localhost:5050/image/bulbasaur.png",
+        "image": "http://localhost:5050/images/bulbasaur.jpeg",
         "choices": [
             "Bulbasaur",
             "Hermie",
             "Water Lizard",
             "Snakey"
         ],
-        "correct": 0
+        "correct": "Bulbasaur"
     },
     {
+        "id": 1,
         "name": "Bellsprout",
-        "image": "http://localhost:5050/image/bellsprout.png",
+        "image": "http://localhost:5050/images/bellsprout.jpeg",
         "choices": [
             "Squirtle",
             "Bellsprout",
             "Hermie",
             "Pikachu"
         ],
-        "correct": 1
+        "correct": "Bellsprout"
     },
     {
+        "id": 2,
         "name": "Kadabra",
-        "image": "http://localhost:5050/image/kadabra.png",
+        "image": "http://localhost:5050/images/kadabra.jpeg",
         "choices": [
             "Snakey",
             "Kadabra",
             "Water Lizard",
             "Wasp"
         ],
-        "correct": 1
+        "correct": "Kadabra"
     },
     {
+        "id": 3,
         "name": "Pikachu",
-        "image": "http://localhost:5050/image/pikachu.png",
+        "image": "http://localhost:5050/images/pikachu.jpeg",
         "choices": [
             "Water Lizard",
             "Snakey",
             "Pikachu",
             "Wasp"
         ],
-        "correct": 2
+        "correct": "Pikachu"
     },
     {
+        "id": 4,
         "name": "Squirtle",
-        "image": "http://localhost:5050/images/squirtle.png",
+        "image": "http://localhost:5050/images/squirtle.jpeg",
         "choices": [
             "Bulbasaur",
             "Squirtle",
             "Kadabra",
             "Hermie"
         ],
-        "correct": 1
+        "correct": "Squirtle"
     },
     {
+        "id": 5,
         "name": "Chamander",
-        "image": "http://localhost:5050/images/chamander.png",
+        "image": "http://localhost:5050/images/chamander.jpeg",
         "choices": [
             "Abar",
             "Braixen",
             "Drilbur",
-            "Charmander"
+            "Chamander"
         ],
-        "correct": 3
+        "correct": "Chamander"
     },
     {
+        "id": 6,
         "name": "Caterpie",
-        "image": "http://localhost:5050/images/caterpie.png",
+        "image": "http://localhost:5050/images/caterpie.jpeg",
         "choices": [
             "Caterpie",
             "Eevee",
             "Gennekin",
             "Falinks"
         ],
-        "correct": 0
+        "correct": "Caterpie"
     },
     {
+        "id": 7,
         "name": "Snorlax",
-        "image": "http://localhost:5050/images/snorlax.png",
+        "image": "http://localhost:5050/images/snorlax.jpeg",
         "choices": [
             "Feebas",
             "Goldeen",
             "Snorlox",
             "Huntail"
         ],
-        "correct": 3
+        "correct": "Snorlax"
     },
     {
+        "id": 8,
         "name": "Clefairy",
-        "image": "http://localhost:5050/images/clefairy.png",
+        "image": "http://localhost:5050/images/clefairy.jpeg",
         "choices": [
             "Ivysaur",
             "Clefairy",
             "Klink",
             "Mabosstiff"
         ],
-        "correct": 1
+        "correct": "Clefairy"
     },
     {
+        "id": 9,
         "name": "Slowpoke",
-        "image": "http://localhost:5050/images/slowpoke.png",
+        "image": "http://localhost:5050/images/slowpoke.jpeg",
         "choices": [
             "Marshadow",
             "Palosand",
             "Slowpoke",
             "Pancham"
         ],
-        "correct": 2
+        "correct": "Slowpoke"
     }
 ]

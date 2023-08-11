@@ -5,11 +5,12 @@ const fs = require("fs");
 const pokemonJSON = fs.readFileSync("./data/pokemon.json");
 const pokemonObj = JSON.parse(pokemonJSON);
 
-router.get("/", (req, res) => {
+router.get("/:id", (req, res) => {
+  // req.params()
   res.json(pokemonObj);
 });
 
-router.post("/", (req, res) => {
+router.post("/:id", (req, res) => {
   res.send("post on questions");
 });
 
