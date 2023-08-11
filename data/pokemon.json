@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Bulbasaur",
+        "image": "http://localhost:5050/image/bulbasaur.png",
+        "choices": [
+            "Bulbasaur",
+            "Hermie",
+            "Water Lizard",
+            "Snakey"
+        ],
+        "correct": 0
+    },
+    {
+        "name": "Bellsprout",
+        "image": "http://localhost:5050/image/bellsprout.png",
+        "choices": [
+            "Squirtle",
+            "Bellsprout",
+            "Hermie",
+            "Pikachu"
+        ],
+        "correct": 1
+    },
+    {
+        "name": "Kadabra",
+        "image": "http://localhost:5050/image/kadabra.png",
+        "choices": [
+            "Snakey",
+            "Kadabra",
+            "Water Lizard",
+            "Wasp"
+        ],
+        "correct": 1
+    },
+    {
+        "name": "Pikachu",
+        "image": "http://localhost:5050/image/pikachu.png",
+        "choices": [
+            "Water Lizard",
+            "Snakey",
+            "Pikachu",
+            "Wasp"
+        ],
+        "correct": 2
+    },
+    {
+        "name": "Squirtle",
+        "image": "http://localhost:5050/images/squirtle.png",
+        "choices": [
+            "Bulbasaur",
+            "Squirtle",
+            "Kadabra",
+            "Hermie"
+        ],
+        "correct": 1
+    },
+    {
+        "name": "Chamander",
+        "image": "http://localhost:5050/images/chamander.png",
+        "choices": [
+            "Abar",
+            "Braixen",
+            "Drilbur",
+            "Charmander"
+        ],
+        "correct": 3
+    },
+    {
+        "name": "Caterpie",
+        "image": "http://localhost:5050/images/caterpie.png",
+        "choices": [
+            "Caterpie",
+            "Eevee",
+            "Gennekin",
+            "Falinks"
+        ],
+        "correct": 0
+    },
+    {
+        "name": "Snorlax",
+        "image": "http://localhost:5050/images/snorlax.png",
+        "choices": [
+            "Feebas",
+            "Goldeen",
+            "Snorlox",
+            "Huntail"
+        ],
+        "correct": 3
+    },
+    {
+        "name": "Clefairy",
+        "image": "http://localhost:5050/images/clefairy.png",
+        "choices": [
+            "Ivysaur",
+            "Clefairy",
+            "Klink",
+            "Mabosstiff"
+        ],
+        "correct": 1
+    },
+    {
+        "name": "Slowpoke",
+        "image": "http://localhost:5050/images/slowpoke.png",
+        "choices": [
+            "Marshadow",
+            "Palosand",
+            "Slowpoke",
+            "Pancham"
+        ],
+        "correct": 2
+    }
+]
