@@ -21,3 +21,7 @@ npm install
 To Start Server:
 
 npm server.js
+
+To connect to the front-end: 
+
+You will need to clone the Hackathon-client repository: [https://github.com/isupreetk/Hackathon-client]
