@@ -20,6 +20,6 @@ app.post("/", (req, res) => {
   res.send("Post on server");
 });
 
-app.listen(5050, () => {
-  console.log("Connected on 5050");
+app.listen(port, () => {
+  console.log(`Connected on ${port}`);
 });
