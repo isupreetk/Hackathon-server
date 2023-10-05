@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Bulbasaur",
-        "image": "http://localhost:5050/images/bulbasaur.jpeg",
+        "image": "`${process.env.API_URL}/images/bulbasaur.jpeg`",
         "choices": [
             "Bulbasaur",
             "Hermie",
@@ -14,7 +14,7 @@
     {
         "id": 1,
         "name": "Bellsprout",
-        "image": "http://localhost:5050/images/bellsprout.jpeg",
+        "image": "`${process.env.API_URL}/images/bellsprout.jpeg`",
         "choices": [
             "Squirtle",
             "Bellsprout",
@@ -26,7 +26,7 @@
     {
         "id": 2,
         "name": "Kadabra",
-        "image": "http://localhost:5050/images/kadabra.jpeg",
+        "image": "`${process.env.API_URL}/images/kadabra.jpeg`",
         "choices": [
             "Snakey",
             "Kadabra",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "name": "Pikachu",
-        "image": "http://localhost:5050/images/pikachu.jpeg",
+        "image": "`${process.env.API_URL}/images/pikachu.jpeg`",
         "choices": [
             "Water Lizard",
             "Snakey",
@@ -50,7 +50,7 @@
     {
         "id": 4,
         "name": "Squirtle",
-        "image": "http://localhost:5050/images/squirtle.jpeg",
+        "image": "`${process.env.API_URL}/images/squirtle.jpeg`",
         "choices": [
             "Bulbasaur",
             "Squirtle",
@@ -62,7 +62,7 @@
     {
         "id": 5,
         "name": "Chamander",
-        "image": "http://localhost:5050/images/chamander.jpeg",
+        "image": "`${process.env.API_URL}/images/chamander.jpeg`",
         "choices": [
             "Abar",
             "Braixen",
@@ -74,7 +74,7 @@
     {
         "id": 6,
         "name": "Caterpie",
-        "image": "http://localhost:5050/images/caterpie.jpeg",
+        "image": "`${process.env.API_URL}/images/caterpie.jpeg`",
         "choices": [
             "Caterpie",
             "Eevee",
@@ -86,7 +86,7 @@
     {
         "id": 7,
         "name": "Snorlax",
-        "image": "http://localhost:5050/images/snorlax.jpeg",
+        "image": "`${process.env.API_URL}/images/snorlax.jpeg`",
         "choices": [
             "Feebas",
             "Goldeen",
@@ -98,7 +98,7 @@
     {
         "id": 8,
         "name": "Clefairy",
-        "image": "http://localhost:5050/images/clefairy.jpeg",
+        "image": "`${process.env.API_URL}/images/clefairy.jpeg`",
         "choices": [
             "Ivysaur",
             "Clefairy",
@@ -110,7 +110,7 @@
     {
         "id": 9,
         "name": "Slowpoke",
-        "image": "http://localhost:5050/images/slowpoke.jpeg",
+        "image": "`${process.env.API_URL}/images/slowpoke.jpeg`",
         "choices": [
             "Marshadow",
             "Palosand",
