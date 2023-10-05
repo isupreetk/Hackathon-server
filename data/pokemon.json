@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Bulbasaur",
-        "image": "./static/images/bulbasaur.jpeg`",
+        "image": "./static/images/bulbasaur.jpeg",
         "choices": [
             "Bulbasaur",
             "Hermie",
